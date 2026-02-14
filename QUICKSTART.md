@@ -1,8 +1,7 @@
-# 🚀 Quick Start Guide - Ransomware Simulator
+# Quick Start Guide - Ransomware Simulator
 
-Get started in 5 minutes!
 
-## Step 1: Setup (2 minutes)
+## Step 1: Setup 
 
 ```bash
 # Install Python dependencies
@@ -11,7 +10,7 @@ pip install -r requirements.txt
 
 That's it! You're ready to go.
 
-## Step 2: First Run (3 minutes)
+## Step 2: First Run 
 
 ### Launch the Simulator
 ```bash
@@ -49,7 +48,7 @@ python main.py
 3. Select **2** for Active Mode
 4. Files are restored!
 
-## 🎉 You Did It!
+## You Did It!
 
 You've successfully:
 - ✅ Simulated a ransomware attack
@@ -73,7 +72,7 @@ cat test_files/READ_ME_SIMULATION.txt
 - See `README.md` for complete documentation
 - Learn about configuration in `config.py`
 
-## 🔍 Understanding the Files
+## Understanding the Files
 
 ### Created Directories
 ```
@@ -88,7 +87,7 @@ ransomware_simulator/
 - `.locked` - Encrypted files
 - Original files are backed up automatically
 
-## ⚠️ Safety Reminders
+## Safety Reminders
 
 1. **Only test on your own data**
 2. **Always use dry-run mode first**
@@ -96,7 +95,7 @@ ransomware_simulator/
 4. **Review logs after operations**
 5. **Never use on production systems**
 
-## 🆘 Common Questions
+## Common Questions
 
 **Q: Can I test on my Documents folder?**
 A: Only if it's YOUR computer and you have backups! Start with test_files first.
@@ -110,7 +109,7 @@ A: Only if misused. Follow the guidelines and you'll be fine.
 **Q: Can I undo everything?**
 A: Yes! Decryption reverses the process completely.
 
-## 📚 Learning Path
+## Learning Path
 
 ### Beginner (You are here!)
 - ✅ Run basic encryption/decryption
@@ -129,7 +128,7 @@ A: Yes! Decryption reverses the process completely.
 - [ ] Create training scenarios
 - [ ] Integrate with security tools
 
-## 🎯 Training Scenario Ideas
+## Training Scenario Ideas
 
 1. **Backup Test**: Delete a backup, try recovery
 2. **Key Loss**: Move the key, see what happens
@@ -137,7 +136,7 @@ A: Yes! Decryption reverses the process completely.
 4. **File Types**: Test with different formats
 5. **Team Training**: Teach colleagues
 
-## 💡 Pro Tips
+## Pro Tips
 
 1. **Always start with dry run** - See what will happen first
 2. **Read the ransom note** - It's packed with learning content
@@ -145,7 +144,7 @@ A: Yes! Decryption reverses the process completely.
 4. **Practice recovery** - Being able to decrypt is crucial
 5. **Keep keys safe** - They're essential for recovery
 
-## 🔗 Next Steps
+## Next Steps
 
 Ready to dive deeper? Check out:
 - `README.md` - Full documentation
@@ -153,7 +152,7 @@ Ready to dive deeper? Check out:
 - `src/` folder - Understand the code
 - Sprint guide (your HTML file) - Detailed learning path
 
-## ⚡ Quick Commands Reference
+## Quick Commands Reference
 
 ```bash
 # Start simulator
